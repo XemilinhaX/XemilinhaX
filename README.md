@@ -48,7 +48,9 @@ Sou apaixonada por tecnologia, programação e estou sempre buscando aprender co
 
 <div align="center">
   <a href="https://open.spotify.com/user/xemigayx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=xemigayx&count=5&unique=false" alt="Spotify recently played" />
+   ## 🎵 Spotify
+
+![Reproduzidas recentemente no Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=214vku4wknlhjy4lyrgyle54a)
   </a>
 </div>
 
