@@ -48,7 +48,7 @@ Sou apaixonada por tecnologia, programação e estou sempre buscando aprender co
 
 <div align="center">
   <a href="https://open.spotify.com/user/xemigayx">
-   ## 🎵 Spotify
+    🎵 Spotify
 
 ![Reproduzidas recentemente no Spotify](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=214vku4wknlhjy4lyrgyle54a)
   </a>
